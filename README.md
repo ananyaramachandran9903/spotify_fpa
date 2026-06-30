@@ -151,7 +151,7 @@ Scenario analysis highlights how relatively small changes in revenue growth assu
 
 # Interactive Scenario Builder
 
-file:///Users/ananya/Downloads/fpa_scenario_builder.html
+[file:///Users/ananya/Downloads/fpa_scenario_builder.html]
 
 ---
 
