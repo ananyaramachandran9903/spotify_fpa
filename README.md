@@ -151,6 +151,8 @@ Scenario analysis highlights how relatively small changes in revenue growth assu
 
 # Interactive Scenario Builder
 
+Type any public company name and get a live Base / Bull / Bear forecast model — pulls 3 years of real financials via web search, locks a base case, and applies ±20% scenario deltas with inverse logic across revenue vs. cost metrics. Single .html file, no setup.
+
 (https://claude.ai/public/artifacts/e13ea340-cc2b-47e3-8c94-fc9260bc5287)]
 
 ---
